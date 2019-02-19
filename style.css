@@ -1,0 +1,54 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* .header{
+    background-color: #f39c12;
+} */
+.teks-atas{
+    font-size: 40pt;
+    text-align: center;
+    color: #f39c12;
+}
+.foto{
+    background-color:#2980b9;
+    width: 20%;
+    height: 210px;
+    float: left;
+}
+.konten{
+    background-color: #3498db;
+    width: 80%;
+    height: 210px;
+    float: left;
+}
+.footer{
+    background-color: #f39c12;
+    text-align: center;
+}
+p{
+    margin-left: 10px;
+    color: white;
+}
+img{
+    width: 50%;
+    display: block;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.medsos li{
+    float: left;
+    list-style: none;
+    padding: 5px;
+}
+.medsos li a {
+    color: white;
+}
+.medsos li :hover{
+    color: #f39c12;
+}
